@@ -1,0 +1,14 @@
+{
+  "name": "color-report",
+  "version": "1.0.0",
+  "description": "Static code analysis tool that writes the working color palette in a web application",
+  "main": "main.js",
+  "scripts": {},
+  "author": "Alec Lavoie (gh: @alavkx)",
+  "license": "ISC",
+  "dependencies": {
+    "css": "^2.2.1",
+    "node-dir": "^0.1.17",
+    "ramda": "^0.25.0"
+  }
+}
