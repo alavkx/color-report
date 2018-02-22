@@ -47,7 +47,7 @@ const webpage = x => `<html>
         }
     </style>
     <body>
-        <h1>Aspen Unified PIMS Color Palette</h1>
+        <h1>Application Color Palette</h1>
         <div class="colors">${elements(x)}</div>
         <textarea class="text">${x}</textarea>
     </body></html>`;
