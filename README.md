@@ -7,4 +7,4 @@ Generates a webpage that will create a list of all hex values found in CSS files
 `node SCRIPT_PATH DIRECTORY_PATH OUTPUT_PATH`
 
 ## Example
-`node main.js C:\Users\USER_NAME_HERE\APPLICATION_PATH_HERE C:\Users\USER_NAME_HERE\OUTPUT_PATH_HERE`
+`node main.js C:\Users\Projects\web-app C:\Users\Projects\web-app`
